@@ -8,4 +8,4 @@ I am a Full stack web developer from Ironhack.
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/megumi-kawagoe-88j)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&theme=merko)
