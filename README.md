@@ -7,4 +7,5 @@ I am a Full stack web developer from Ironhack.
 - 👯 I’m looking to collaborate on great projects!
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/megumi-kawagoe-88j)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megumikawa)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&theme=radical)
