@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-
-**Megumikawa/Megumikawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:I am a Fullstack Web developer from Ironhack web development bootcamp.
+I am a Full stack web developer from Ironhack web development bootcamp.
 
 - 🔭 I’m currently working on 9 weeks Full stack web development at Ironhack Bootcamp.
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: 
+- 📫 How to reach me: [Megumi's LinkedIn](https://www.linkedin.com/in/megumi-kawagoe-88j)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
