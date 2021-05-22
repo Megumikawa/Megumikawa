@@ -1,11 +1,3 @@
-### Hi Developer || Recuriter 👋
-
-I am a Full stack web developer from Ironhac
-
-
-- 🚀 I’m currently learning on 9 weeks Full stack web development at Ironhack Bootcamp remotely in Amsterdam.
-- 👩‍💻  I’m looking to collaborate on great projects!
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/megumi-kawagoe-88j/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <h1 align='center'>
   Hi there 👋 I'm Megumi :woman_technologist:
 </h1>
@@ -27,8 +19,11 @@ I am a Full stack web developer from Ironhac
  <summary>My Github Stats: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Megumi&show_icons=true&include_all_commits=true&count_private=true&theme=merko&line_height=27">
+  ![Megumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&theme=radical)
+
 </p>
+
+<hr> 
 
 ###### About me: 
 
