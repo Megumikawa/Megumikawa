@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  I am a Full stack web developer from Ironhack.
+  I am a Full stack web developer from Ironhack.<br>
   📍 Current location : Amsterdam, Netherlands:netherlands: 
 </p>
 
@@ -18,11 +18,10 @@
  <summary>My Github Stats: </summary>
 <br>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&count_private=true&theme=radical" width="450"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&count_private=true&theme=radical" width="400"></a>
 </p>
-<hr> 
- <hr> 
 
+<hr>
 ###### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
