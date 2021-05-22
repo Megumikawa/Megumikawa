@@ -23,6 +23,13 @@ I am a Full stack web developer from Ironhac
 <p align='center'>
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Megumikawa&hide=prs&show_icons=true&theme=dracula)
 </p>
+<details open>
+ <summary>My Github Stats: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Megumi&show_icons=true&include_all_commits=true&count_private=true&theme=merko&line_height=27">
+</p>
+
 ###### About me: 
 
 📍 Current location : Amsterdam, Netherlands:netherlands: 
