@@ -10,6 +10,7 @@ I am a Full stack web developer from Ironhac
 ###### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![React.js](https://img.shields.io/badge/-React.js-yellow?style=flat-square&logo=React.js)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=Node.js)
 ![ES6](https://img.shields.io/badge/-ES6-orange?style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
