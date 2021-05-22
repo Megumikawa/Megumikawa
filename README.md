@@ -21,7 +21,7 @@ I am a Full stack web developer from Ironhac
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Megumikawa&hide=prs&show_icons=true&theme=dracula)
 </p>
 
 ###### Languages and Tools:
