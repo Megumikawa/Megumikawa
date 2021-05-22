@@ -1,12 +1,11 @@
-### Hi there 👋
+### Hi Developer || Recuriter 👋
 
 I am a Full stack web developer from Ironhac
 
 
 - 🚀 I’m currently learning on 9 weeks Full stack web development at Ironhack Bootcamp remotely in Amsterdam.
 - 👩‍💻  I’m looking to collaborate on great projects!
-- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/megumi-kawagoe-88j)
-- <a href="https://www.linkedin.com/in/manishpoduval/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/manishpoduval/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ###### Languages and Tools:
 
