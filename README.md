@@ -4,6 +4,7 @@
 
 <p align='center'>
   I am a Full stack web developer from Ironhack.
+  📍 Current location : Amsterdam, Netherlands:netherlands: 
 </p>
 
 <p align='center'>
@@ -16,18 +17,10 @@
 <details open>
  <summary>My Github Stats: </summary>
 <br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&include_all_commits=true&count_private=true&theme=radical&line_height=27"></p>
-</p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&count_private=true&theme=radical" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&count_private=true&theme=radical" width="450"></a>
 </p>
 <hr> 
-
-###### About me: 
-
-📍 Current location : Amsterdam, Netherlands:netherlands: 
-
  <hr> 
 
 ###### Languages and Tools:
