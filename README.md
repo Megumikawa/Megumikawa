@@ -12,14 +12,15 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Megumikawa&hide=prs&show_icons=true&theme=dracula)
-</p>
+
 <details open>
  <summary>My Github Stats: </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&include_all_commits=true&count_private=true&theme=radical&line_height=27"></p>
+</p>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&count_private=true&theme=radical" width="350"></a>
 </p>
 <hr> 
 
