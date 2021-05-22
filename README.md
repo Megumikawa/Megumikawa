@@ -9,11 +9,11 @@ I am a Full stack web developer from Ironhac
 
 ###### Languages and Tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nodejs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![ES6](https://img.shields.io/badge/-ES6-orange?style=flat-square)
-![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
