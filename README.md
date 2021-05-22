@@ -21,7 +21,7 @@
 <hr>
 
 <h2 align='center>Languages and Tools:</h2>
-<p>
+<p align='center>
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
