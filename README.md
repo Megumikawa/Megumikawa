@@ -21,8 +21,6 @@
 <hr>
 
 <h2>Languages and Tools:</h2>
-           
-<p align='center>
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -39,4 +37,4 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)
-</p>
+
