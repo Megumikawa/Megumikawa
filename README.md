@@ -1,7 +1,6 @@
 ## <h1 align='center'>Hi there 👋 I'm Megumi :woman_technologist:</h1>
 
-<div align='center'>
-Born in:jp:, currently in :de:
+Born in:jp:, currently in :de:, Ironhack :netherlands:
 
 <img align='right' src="https://media.giphy.com/media/PflUjSyMJQgeJ8iOWf/giphy.gif" width="230">
 <p>A self-taught programmer who made transition to a <em>Junior Frontend Engineer</em>!</p>
@@ -24,6 +23,7 @@ const emiri = {
 			'Git',
 			'GitHub',
 			'Heroku',
+			'Bootstrap'
 		],
 		currentlyLearning: 'Angular', 'TypeScript',
 	},
@@ -36,6 +36,7 @@ const emiri = {
 -   Sewing
 -   Baking
 
-</div>
-
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&count_private=true&theme=radical" width="350"></a>
+</p>
 
