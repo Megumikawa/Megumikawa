@@ -1,5 +1,5 @@
-## <h1>Hi, I'm Megumi<img src="https://media.giphy.com/media/TJV1y5JICirl5MPhcb/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/WopDaFpkmJiTtq1lGn/giphy.gif" width="230">
+## <h1>Hi, I'm Megumi<img src="https://media.giphy.com/media/WopDaFpkmJiTtq1lGn/giphy.gif" width="50"></h1>
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 Born in :jp:, currently in :de:
 <p><em>Enthusiastic Full-stack web developer with an eye for detail and a can-do attitude</p>
