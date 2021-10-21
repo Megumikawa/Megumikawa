@@ -6,7 +6,7 @@ Born in:jp:, currently in :de:, Ironhack :netherlands:
 <img align='right' src="https://media.giphy.com/media/PflUjSyMJQgeJ8iOWf/giphy.gif" width="100">
 
 
-Volunteering Engineer at <a href="https://www.510.global/">510 Global</a><br>
+Volunteer Engineer at <a href="https://www.510.global/">510 Global</a><br>
 Ironhacker at <a href="https://www.ironhack.com/en">
 
 
