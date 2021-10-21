@@ -1,9 +1,10 @@
-## <h1 align='center'>Hi there 👋 I'm Megumi :woman_technologist:</h1>
+## <h1>Hi there 👋 I'm Megumi :woman_technologist:</h1>
 
 Born in:jp:, currently in :de:, Ironhack :netherlands:
 
-<img align='right' src="https://media.giphy.com/media/PflUjSyMJQgeJ8iOWf/giphy.gif" width="230">
-<p>A self-taught programmer who made transition to a <em>Junior Frontend Engineer</em>!</p>
+
+<img align='right' src="https://media.giphy.com/media/PflUjSyMJQgeJ8iOWf/giphy.gif" width="100">
+<p>Enthusiastic Full-stack web developer with an eye for detail and a can-do attitude</p>
 
 [![Linkedin: MegumiKawagoe](https://img.shields.io/badge/-MegumiKawagoe-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/megumi-kawagoe-88j)](https://www.linkedin.com/in/megumi-kawagoe-88j/)
 
