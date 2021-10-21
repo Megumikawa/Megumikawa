@@ -1,4 +1,4 @@
-## <h1>Hi, I'm Megumi</h1>Born in :jp:, currently in :de:
+## <h1>Hi, I'm Megumi</h1><p>Born in :jp:, currently in :de:</p>
 <img align='right' src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="230">
 
 Born in :jp:, currently in :de:
