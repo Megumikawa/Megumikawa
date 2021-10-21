@@ -1,5 +1,6 @@
 ## <h1 align='center'>Hi there 👋 I'm Megumi :woman_technologist:</h1>
 
+<div align='center'>
 Born in:jp:, currently in :de:
 
 <img align='right' src="https://media.giphy.com/media/PflUjSyMJQgeJ8iOWf/giphy.gif" width="230">
@@ -17,7 +18,7 @@ const emiri = {
 		frontEnd: ['HTML', 'CSS', 'React', 'jQuery'],
 		backEnd: ['Node.js', 'Express.js', 'MongoDB', 'mongoose','Axios'],
 		tools: [
-      'APIs'
+                        'APIs'
 			'Webpack',
 			'npm',
 			'Git',
@@ -35,6 +36,6 @@ const emiri = {
 -   Sewing
 -   Baking
 
-
+</div>
 
 
