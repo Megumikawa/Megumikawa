@@ -3,7 +3,7 @@
 <p>Born in :jp:, currently in :de:</p>
 <p><em>Enthusiastic Full-stack web developer with an eye for detail and a can-do attitude</p>
 
-<img align='right' src="https://media.giphy.com/media/PflUjSyMJQgeJ8iOWf/giphy.gif" width="100">
+<img align='right' src="https://media.giphy.com/media/PflUjSyMJQgeJ8iOWf/giphy.gif" width="160">
 
 
 Volunteer Engineer at <a href="https://www.510.global/">510 Global</a><br>
@@ -16,7 +16,7 @@ Volunteer Engineer at <a href="https://www.510.global/">510 Global</a><br>
 ### <img src="https://media.giphy.com/media/j0MktH0wmO0U4XVUAx/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const emiri = {
+const megumi = {
 	pronouns: 'she' | 'her',
 	technologies: {
 		language: 'JavaScript(ES6)',
@@ -35,7 +35,7 @@ const emiri = {
 	},
 };
 ```
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&count_private=true&theme=radical" width="350"></a>
+<!-- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&count_private=true&theme=radical" width="350"></a> -->
 
 
 ### <img src="https://media.giphy.com/media/YLxkiyH7rXlnZwPk7E/giphy.gif" width="50"> When I'm not coding, I like...
