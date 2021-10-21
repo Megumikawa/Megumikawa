@@ -1,6 +1,8 @@
-## <h1>Hi there 👋 I'm Megumi :woman_technologist:</h1>
+## <h1>Hi, I'm Megumi :woman_technologist:</h1>
 
 Born in:jp:, currently in :de:, Ironhack :netherlands:
+
+Volunteering Engineer at [510 Global](https://www.510.global/)
 
 
 <img align='right' src="https://media.giphy.com/media/PflUjSyMJQgeJ8iOWf/giphy.gif" width="100">
