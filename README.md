@@ -1,9 +1,9 @@
 ## <h1>Hi, I'm Megumi<img src="https://media.giphy.com/media/TJV1y5JICirl5MPhcb/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/WopDaFpkmJiTtq1lGn/giphy.gif" width="230">
 
 Born in :jp:, currently in :de:
-<em>Enthusiastic Full-stack web developer with an eye for detail and a can-do attitude
-Volunteer Engineer at <a href="https://www.510.global/">510 Global</a><br>
+<p><em>Enthusiastic Full-stack web developer with an eye for detail and a can-do attitude</p>
+<p>Volunteer Engineer at <a href="https://www.510.global/">510 Global</a></p>
 
 [![Linkedin: MegumiKawagoe](https://img.shields.io/badge/-MegumiKawagoe-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/megumi-kawagoe-88j)](https://www.linkedin.com/in/megumi-kawagoe-88j/)
 
