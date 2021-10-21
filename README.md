@@ -1,4 +1,4 @@
-## Hi, I'm Megumi Born in :jp:, currently in :de:
+## Hi, I'm Megumi 
 <img align='right' src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="230">
 
 Born in :jp:, currently in :de:
