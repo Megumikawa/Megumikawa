@@ -1,13 +1,13 @@
-## <h1>Hi, I'm Megumi :woman_technologist:</h1>
+## <h1>Hi, I'm Megumi  :woman_technologist:</h1>
 
-Born in:jp:, currently in :de:, Ironhack :netherlands:
+<p>Born in :jp:, currently in :de:</p>
 <p><em>Enthusiastic Full-stack web developer with an eye for detail and a can-do attitude</p>
 
 <img align='right' src="https://media.giphy.com/media/PflUjSyMJQgeJ8iOWf/giphy.gif" width="100">
 
 
 Volunteer Engineer at <a href="https://www.510.global/">510 Global</a><br>
-Ironhacker at <a href="https://www.ironhack.com/en">
+
 
 
 
