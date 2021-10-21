@@ -3,8 +3,8 @@
 <p>Born in :jp:, currently in :de:</p>
 <p><em>Enthusiastic Full-stack web developer with an eye for detail and a can-do attitude</p>
 
-<img align='right' src="https://media.giphy.com/media/PflUjSyMJQgeJ8iOWf/giphy.gif" width="160">
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="100">
+
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="140">
 
 
 Volunteer Engineer at <a href="https://www.510.global/">510 Global</a><br>
