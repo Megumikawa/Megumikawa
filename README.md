@@ -1,4 +1,4 @@
-## <h1>Hi, I'm Megumi  :woman_technologist:</h1>
+## <h1>Hi, I'm Megumi<img src="https://media.giphy.com/media/TJV1y5JICirl5MPhcb/giphy.gif" width="30"></h1>
 
 <p>Born in :jp:, currently in :de:</p>
 <p><em>Enthusiastic Full-stack web developer with an eye for detail and a can-do attitude</p>
