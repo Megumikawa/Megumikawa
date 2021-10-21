@@ -29,6 +29,8 @@ const emiri = {
 	},
 };
 ```
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&count_private=true&theme=radical" width="350"></a>
+
 
 ### <img src="https://media.giphy.com/media/YLxkiyH7rXlnZwPk7E/giphy.gif" width="50"> When I'm not coding, I like...
 
@@ -36,7 +38,6 @@ const emiri = {
 -   Sewing
 -   Baking
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&count_private=true&theme=radical" width="350"></a>
-</p>
+
+  
 
