@@ -2,11 +2,10 @@
 
 Born in:jp:, currently in :de:, Ironhack :netherlands:
 
-Volunteering Engineer at [510 Global](https://www.510.global/)
-
 
 <img align='right' src="https://media.giphy.com/media/PflUjSyMJQgeJ8iOWf/giphy.gif" width="100">
 <p>Enthusiastic Full-stack web developer with an eye for detail and a can-do attitude</p>
+Volunteering Engineer at [510 Global](https://www.510.global/)
 
 [![Linkedin: MegumiKawagoe](https://img.shields.io/badge/-MegumiKawagoe-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/megumi-kawagoe-88j)](https://www.linkedin.com/in/megumi-kawagoe-88j/)
 
