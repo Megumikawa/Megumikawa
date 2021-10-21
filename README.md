@@ -1,4 +1,4 @@
-## <h1>Hi, I'm Megumi<img src="https://media.giphy.com/media/WopDaFpkmJiTtq1lGn/giphy.gif" width="50"></h1>
+## <h1>Hi, I'm Megumi</h1>
 <img align='right' src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="230">
 
 Born in :jp:, currently in :de:
@@ -7,7 +7,7 @@ Born in :jp:, currently in :de:
 
 [![Linkedin: MegumiKawagoe](https://img.shields.io/badge/-MegumiKawagoe-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/megumi-kawagoe-88j)](https://www.linkedin.com/in/megumi-kawagoe-88j/)
 
-### <img src="https://media.giphy.com/media/j0MktH0wmO0U4XVUAx/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/WopDaFpkmJiTtq1lGn/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const megumi = {
