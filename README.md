@@ -1,41 +1,40 @@
-<h1 align='center'>
-  Hi there 👋 I'm Megumi :woman_technologist:
-</h1>
+## <h1 align='center'>Hi there 👋 I'm Megumi :woman_technologist:</h1>
 
-<p align='center'>
-  I am a Full stack web developer from Ironhack.<br>
-  📍 Current location : Amsterdam, Netherlands:netherlands: 
-</p>
+Born in:jp:, currently in :de:
 
-<br />
+<img align='right' src="https://media.giphy.com/media/PflUjSyMJQgeJ8iOWf/giphy.gif" width="230">
+<p>A self-taught programmer who made transition to a <em>Junior Frontend Engineer</em>!</p>
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/megumi-kawagoe-88j/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
+[![Linkedin: MegumiKawagoe](https://img.shields.io/badge/-emiribegic-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/emiribegic/)](https://www.linkedin.com/in/megumi-kawagoe-88j/)
 
-<br>
+### <img src="https://media.giphy.com/media/j0MktH0wmO0U4XVUAx/giphy.gif" width="50"> A little more about me...
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&count_private=true&theme=radical" width="350"></a>
-</p>
+```javascript
+const emiri = {
+	pronouns: 'she' | 'her',
+	technologies: {
+		language: 'JavaScript(ES6)',
+		frontEnd: ['HTML', 'CSS', 'React', 'jQuery'],
+		backEnd: ['Node.js', 'Express.js', 'MongoDB', 'mongoose','Axios'],
+		tools: [
+      'APIs'
+			'Webpack',
+			'npm',
+			'Git',
+			'GitHub',
+			'Heroku',
+		],
+		currentlyLearning: 'Angular', 'TypeScript',
+	},
+};
+```
 
-<h2 align='center'>Languages and Tools:</h2>
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
-![ES6](https://img.shields.io/badge/-ES6-orange?)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)
+### <img src="https://media.giphy.com/media/YLxkiyH7rXlnZwPk7E/giphy.gif" width="50"> When I'm not coding, I like...
+
+-   Handicraft
+-   Sewing
+-   Baking
+
+
+
 
