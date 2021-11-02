@@ -3,7 +3,9 @@
 
 Born in :jp:, currently in :de:
 <p><em>Enthusiastic can-do attitude Full-stack web developer with an eye for detail and design!</p>
+<p><a href="https://www.ironhack.com/en">Ironhack</a> Alumnus</p>
 <p>Volunteer Engineer at <a href="https://www.510.global/">510 Global</a></p>
+<p>v35 Developer of <a href="https://chingu.io/">Chingu</a></p>
 
 [![Linkedin: MegumiKawagoe](https://img.shields.io/badge/-MegumiKawagoe-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/megumi-kawagoe-88j)](https://www.linkedin.com/in/megumi-kawagoe-88j/)
 
