@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="230">
 
 Born in :jp:, currently in :de:
-<p><em>Enthusiastic can-do attitude Full-stack web developer with an eye for detail and design!</p>
+<p><em>Enthusiastic and can-do attitude Full-stack web developer with an eye for detail and design!</p>
 <div>
 	<ul>
 		<li><a href="https://www.ironhack.com/en">Ironhack</a> Alumnus</li>
