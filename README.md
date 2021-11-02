@@ -7,7 +7,7 @@ Born in :jp:, currently in :de:
 	<ul>
 		<li><a href="https://www.ironhack.com/en">Ironhack</a> Alumnus</li>
 		<li>Volunteer Engineer at <a href="https://www.510.global/">510 Global</a></li>
-		<li>Developer at <a href="https://chingu.io/">Chingu</a></li>
+		<li>Member of <a href="https://chingu.io/">Chingu</a> Developer</li>
 	</ul>
 
 </div>
