@@ -17,7 +17,7 @@ Born in :jp:, currently in :de:
 </div>
 
 
-### <img src="https://media.giphy.com/media/WopDaFpkmJiTtq1lGn/giphy.gif" width="50"> A little more about me...
+### A little more about me...
 
 ```javascript
 const megumi = {
