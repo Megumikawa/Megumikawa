@@ -23,7 +23,7 @@ Born in :jp:, currently in :de:
 const megumi = {
 	technologies: {
 		language: 'JavaScript(ES6)',
-		frontEnd: ['React', 'HTML', 'CSS', 'WordPress' 'jQuery',],
+		frontEnd: ['React', 'HTML', 'CSS', 'SCSS', 'WordPress' 'jQuery',],
 		backEnd: ['Node.js', 'Express.js', 'MongoDB', 'mongoose','Axios'],
 		tools: ['APIs','npm','Heroku','Bootstrap']
 		}
