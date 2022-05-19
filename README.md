@@ -1,5 +1,5 @@
 ## Hi, I'm Megumi 
-<img align="right" src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="220">
+
 <!-- <img align="right" width="100" src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif"> -->
 
 Born in :jp:, currently in :de:
@@ -16,7 +16,7 @@ Born in :jp:, currently in :de:
 	</ul>
 
 </div>
-
+<img align="right" src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="220">
 
 ### A little more about me...
 
