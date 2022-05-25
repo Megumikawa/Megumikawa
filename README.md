@@ -38,7 +38,7 @@ const megumi = {
 <!-- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Megumikawa&show_icons=true&count_private=true&theme=radical" width="350"></a> -->
 
 
+[linkedin]: https://www.linkedin.com/in/megumi-kawagoe-88j/
 
-[linkedin]: https://linkedin.com/in/vibhorchaudhary](https://www.linkedin.com/in/megumi-kawagoe-88j/
   
 
