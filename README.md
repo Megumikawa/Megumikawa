@@ -1,6 +1,6 @@
 ## Hi, I'm Megumi 
 
-<!-- <img align="right" width="100" src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif"> -->
+<img align="right" width="100" src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif">
 <!-- <img align="right" src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="220"> -->
 
 Born in :jp:, currently in :de:
