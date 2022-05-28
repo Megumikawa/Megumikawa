@@ -5,6 +5,7 @@
 
 Born in :jp:, currently in :de:
 
+<a href="https://www.linkedin.com/in/megumi-kawagoe-88j/"><img height="30" src="https://www.linkedin.com/in/megumi-kawagoe-88j/"></a>&nbsp;&nbsp;
 <!-- [<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 
 [![Linkedin: MegumiKawagoe](https://img.shields.io/badge/-MegumiKawagoe-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/megumi-kawagoe-88j)](https://www.linkedin.com/in/megumi-kawagoe-88j/)
